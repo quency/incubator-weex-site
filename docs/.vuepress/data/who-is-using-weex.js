@@ -132,7 +132,7 @@ export default [
     name_CN: '分期乐',
     name_EN: 'fenqile',
     icon: 'http://cimg1.fenqile.com/ibanner2/M00/00/8E/jqgHAFpgQnWAV3iwAABPXZNzjzM459.png',
-    iOS: 'http://itunes.apple.com/app/id906611031',
+    iOS: 'http://itunes.apple.com/cn/app/id906611031',
     android: 'http://mall.m.fenqile.com/app/download/fenqile/app/official/fenqile.apk'
   },
   {
